@@ -1,0 +1,37 @@
+body{
+    margin: 0;
+}
+.display{
+    display:flex;
+    margin-bottom: 150px;
+    
+
+}
+
+.header{
+    background-image:url(images/top-banner.png);
+    background-repeat: no-repeat;
+}
+
+.middle{
+    background-image:url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position:right;
+
+}
+
+.footer{
+    background-image:url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position:left;
+
+}
+
+.half-width {
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+    box-shadow: 12px 12px 30px gray;
+}
+
